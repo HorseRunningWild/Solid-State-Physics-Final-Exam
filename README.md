@@ -3,13 +3,13 @@
 - [固体物理Recap 壹:从自由电子气到倒格空间](https://mp.weixin.qq.com/s/6bA2kNdyBOnjiRh9vfjr2Q)
 - [固体物理Recap 贰：从能带理论到布洛赫电子动力学](https://mp.weixin.qq.com/s/kpvF5C_ezXnsyN51pIIxfQ)
 - [固体物理Recap 叁：晶格振动的经典与量子理论](https://mp.weixin.qq.com/s/MGbKAi72UVzT-ybpZ2zbFQ)
-
+- [固体物理Recap 肆：金属输运与总结](https://mp.weixin.qq.com/s/B7LqtAHr0GIKGJJPgde3sA)
 
 # 2026-0628 期末真题
 一如既往四道大题
 
 ## 一 态密度
-1d情况下，系统长度为$L$, 求$g(E)$和$N$随$E_F$的变化
+1d情况下，系统长度为 $L$ , 求 $g(E)$ 和 $N$ 随 $E_F$ 的变化
 
 ### 第一问
 色散关系为自由电子：$E_{k} = \frac{\hbar^2 k^2}{2m}$
@@ -22,7 +22,7 @@
 
 <img width="521" height="170" alt="image" src="https://github.com/user-attachments/assets/ddb99f0a-7fd6-4234-84e6-a535da319a79" />
 
-给出的原胞有点类似于上面的原胞，不过左边两个$\alpha = \frac{\pi}{2} $。
+给出的原胞有点类似于上面的原胞，不过左边两个 $\alpha = \frac{\pi}{2}$ 。
 
 ### 第一问
 
@@ -30,7 +30,7 @@
 
 ### 第二问
 
-绿 红 蓝分别为$\vec{a}_1,\vec{a}_2,\vec{a}_3$，用矢量形式表达$\vec{b}_1,\vec{b}_2,\vec{b}_3$。并求布里渊区体积。
+绿 红 蓝分别为 $\vec{a}_1,\vec{a}_2,\vec{a}_3$ ，用矢量形式表达 $\vec{b}_1,\vec{b}_2,\vec{b}_3$ 。并求布里渊区体积。
 
 ### 第三问
 
